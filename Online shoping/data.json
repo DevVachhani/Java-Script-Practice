@@ -1,0 +1,265 @@
+{
+  "debugQ": {
+    "time": {
+      "script": 36.406993865967,
+      "solr": 36.087989807129,
+      "curl_total_time": 0.035672,
+      "code": 200,
+      "qtime": 29
+    },
+    "cat_id": "239",
+    "updated": "Fri, 03 Mar 23 14:31:16 +0530"
+  },
+  "product": [
+    {
+      "label": "men t shirts",
+      "value": "men t shirts",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men's t shirt",
+      "value": "men's t shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "mens shirt",
+      "value": "mens shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "gents t shirt",
+      "value": "gents t shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "t shirt for men",
+      "value": "t shirt for men",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "man t shirt",
+      "value": "man t shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "mens jackets",
+      "value": "mens jackets",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men casual shirt",
+      "value": "men casual shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "casual shirts",
+      "value": "casual shirts",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "mens wear",
+      "value": "mens wear",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men cotton shirts",
+      "value": "men cotton shirts",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men lower",
+      "value": "men lower",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "mens trousers",
+      "value": "mens trousers",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "cotton t shirt",
+      "value": "cotton t shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "cotton shirt",
+      "value": "cotton shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men formal shirts",
+      "value": "men formal shirts",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "formal shirts",
+      "value": "formal shirts",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "mens branded t shirt",
+      "value": "mens branded t shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "mens shorts",
+      "value": "mens shorts",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "mens kurta",
+      "value": "mens kurta",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "mens polo t shirt",
+      "value": "mens polo t shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "pant",
+      "value": "pant",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men clothing",
+      "value": "men clothing",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "lower",
+      "value": "lower",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men printed t shirt",
+      "value": "men printed t shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "shorts",
+      "value": "shorts",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "printed shirt",
+      "value": "printed shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men printed shirt",
+      "value": "men printed shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men leather jackets",
+      "value": "men leather jackets",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "sublimation t shirt",
+      "value": "sublimation t shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "mens check shirts",
+      "value": "mens check shirts",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "customized t shirt",
+      "value": "customized t shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "check shirt",
+      "value": "check shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men plain t shirt",
+      "value": "men plain t shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men formal pants",
+      "value": "men formal pants",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men full sleeves t shirt",
+      "value": "men full sleeves t shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "designer shirt",
+      "value": "designer shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "mens tshirts manufacturer",
+      "value": "mens tshirts manufacturer",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men collar t shirt",
+      "value": "men collar t shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "cotton dhoti",
+      "value": "cotton dhoti",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "branded shirts",
+      "value": "branded shirts",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "gents cotton t shirt",
+      "value": "gents cotton t shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "mens garments",
+      "value": "mens garments",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men designer shirt",
+      "value": "men designer shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "kurta pajama",
+      "value": "kurta pajama",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "lungi",
+      "value": "lungi",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "mens kurta pajama",
+      "value": "mens kurta pajama",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "white shirt",
+      "value": "white shirt",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "cotton lungis",
+      "value": "cotton lungis",
+      "data": { "type_data": "1", "sort_order": "1" }
+    },
+    {
+      "label": "men cotton pant",
+      "value": "men cotton pant",
+      "data": { "type_data": "1", "sort_order": "1" }
+    }
+  ]
+}
